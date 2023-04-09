@@ -1,8 +1,8 @@
 
 
-# Instalar el proyecto para el examen final de Frontend III
+# Install projects
 
-# Clonar el repositorio del final en tu computadora
+# Clone the repository
 git clone https://github.com/rosmarmendoza/repo_spanish_react.git
 
 
@@ -13,6 +13,8 @@ git clone https://github.com/rosmarmendoza/repo_spanish_react.git
 
 ```
 
-# Digital House
+# Digital House 
 
-#Rosmar Mendoza 
+# Develop by Rosmar Mendoza 
+
+# Happy hacking "D
