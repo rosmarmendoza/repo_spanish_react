@@ -1,6 +1,6 @@
 
 
-# Install projects
+# Install project
 
 # Clone the repository
 git clone https://github.com/rosmarmendoza/repo_spanish_react.git
